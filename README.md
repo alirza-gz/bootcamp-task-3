@@ -1,5 +1,5 @@
 # Bootcamp-Task-3
-Responsive Shopping Cart Page Using Tailwind-CSS
+Responsive Shopping Cart Page - Using Tailwind-CSS
 
 # Desktop
 ![Desktop](https://github.com/alirza-gz/bootcamp-task-3/assets/64093004/617cb31f-15d1-4fc3-83fa-d08d60969def)
